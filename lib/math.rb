@@ -19,6 +19,6 @@ num1%num2
 end
 
 def square_root(num)
-math.sqrt(num)
+math.sqrt(74)
 square_root(74)
 end
