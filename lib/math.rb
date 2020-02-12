@@ -20,5 +20,5 @@ end
 
 def square_root(num)
 math.sqrt(num)
-square_root
+square_root(74)
 end
